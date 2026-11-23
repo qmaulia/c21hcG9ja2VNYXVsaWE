@@ -12,37 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Maulia =====
-[1]Maulia      |07:46:40 | 22-11-2026| login OK @qmauliaa | score=3380 rank=2292
-[1]Maulia      |07:46:40 | 22-11-2026| serverTime=2026-11-22T07:46:39.000Z local=2026-11-22T07:46:40.170Z
+[1]Maulia      |08:36:42 | 23-11-2026| login OK @qmauliaa | score=3410 rank=2287
+[1]Maulia      |08:36:42 | 23-11-2026| serverTime=2026-11-23T08:36:42.000Z local=2026-11-23T08:36:42.692Z
 --> [1]Maulia menjalankan: Claim Daily
-[1]Maulia      |07:46:41 | 22-11-2026| daily: OK +10 poin score=3390
---> [1]Maulia menjalankan: Auto All Tasks (2 pending)
-[1]Maulia      |07:46:43 | 22-11-2026| [1/2] 765f5781 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"765f5781-3451-4408-ba0a-458c2844ee72","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212435559985729 | proof=https://x.com/qmauliaa/status/2124408658780654871
-[1]Maulia      |07:46:43 | 22-11-2026| delay 10s...
-[1]Maulia      |07:46:55 | 22-11-2026| [2/2] 043ba6d6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"765f5781-3451-4408-ba0a-458c2844ee72","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212435559985729 | proof=https://x.com/qmauliaa/status/2124408867404227609
-[1]Maulia      |07:46:55 | 22-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Maulia      |07:46:56 | 22-11-2026| [1/1] 765f5781 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"765f5781-3451-4408-ba0a-458c2844ee72","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124355599857295 | proof=https://x.com/qmauliaa/status/2124408750427359920
+[1]Maulia      |08:36:44 | 23-11-2026| daily: OK +10 poin score=3420
+--> [1]Maulia menjalankan: Auto All Tasks (3 pending)
+[1]Maulia      |08:36:46 | 23-11-2026| [1/3] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/qmauliaa/status/2124783705990108629
+[1]Maulia      |08:36:46 | 23-11-2026| delay 10s...
+[1]Maulia      |08:36:59 | 23-11-2026| [2/3] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/qmauliaa/status/2124783861339354842
+[1]Maulia      |08:36:59 | 23-11-2026| delay 10s...
+[1]Maulia      |08:37:11 | 23-11-2026| [3/3] ddf40dac (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/qmauliaa/status/2124783965609997011
+[1]Maulia      |08:37:11 | 23-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Maulia      |08:37:13 | 23-11-2026| [1/1] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124732376836411 | proof=https://x.com/qmauliaa/status/2124783798022389508
 --> [1]Maulia menjalankan: Watch Anime
-[1]Maulia      |07:46:57 | 22-11-2026| watch: semua video sudah completed
+[1]Maulia      |08:37:13 | 23-11-2026| watch: semua video sudah completed
 --> [1]Maulia menjalankan: Read Article
-[1]Maulia      |07:46:58 | 22-11-2026| news: 34/34 artikel selesai dibaca
-[1]Maulia      |07:46:59 | 22-11-2026| mint eligibility: {"userId":"1636246922242449408","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@qmaulia","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
-[1]Maulia      |07:46:59 | 22-11-2026| news: semua artikel sudah dibaca
+[1]Maulia      |08:37:14 | 23-11-2026| news: 34/34 artikel selesai dibaca
+[1]Maulia      |08:37:15 | 23-11-2026| mint eligibility: {"userId":"1636246922242449408","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@qmaulia","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Maulia      |08:37:15 | 23-11-2026| news: semua artikel sudah dibaca
 --> [1]Maulia menjalankan: Quiz Anime
 --> [1]Maulia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Maulia      |07:47:01 | 22-11-2026| music: kedua misi sudah tercapai, stop
-[1]Maulia      |07:47:02 | 22-11-2026| mission music-listens-10: sudah diklaim
-[1]Maulia      |07:47:02 | 22-11-2026| mission music-minutes-30: sudah diklaim
-[1]Maulia      |07:47:02 | 22-11-2026| mission anime-completed-3: sudah diklaim
+[1]Maulia      |08:37:16 | 23-11-2026| music: kedua misi sudah tercapai, stop
+[1]Maulia      |08:37:16 | 23-11-2026| mission music-listens-10: sudah diklaim
+[1]Maulia      |08:37:16 | 23-11-2026| mission music-minutes-30: sudah diklaim
+[1]Maulia      |08:37:16 | 23-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maulia menjalankan: Claim Missions
-[1]Maulia      |07:47:02 | 22-11-2026| mission music-listens-10: sudah diklaim
-[1]Maulia      |07:47:02 | 22-11-2026| mission music-minutes-30: sudah diklaim
-[1]Maulia      |07:47:02 | 22-11-2026| mission anime-completed-3: sudah diklaim
+[1]Maulia      |08:37:16 | 23-11-2026| mission music-listens-10: sudah diklaim
+[1]Maulia      |08:37:16 | 23-11-2026| mission music-minutes-30: sudah diklaim
+[1]Maulia      |08:37:16 | 23-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maulia menjalankan: Check Eligibility
 
 --- eligibility [1]Maulia ---
-  @qmauliaa | score=3380 rank=2292
-  tasks    [##############------] 5/7
+  @qmauliaa | score=3410 rank=2287
+  tasks    [#############-------] 5/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Maulia menjalankan: Read Manga
-[1]Maulia      |07:47:05 | 22-11-2026| manga: 0/13 chapter belum completed
+[1]Maulia      |08:37:19 | 23-11-2026| manga: 0/13 chapter belum completed
 --> [1]Maulia menjalankan: Get Gift
-[1]Maulia      |07:47:07 | 22-11-2026| gift: 3/12 belum diterima
-[1]Maulia      |07:47:08 | 22-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Maulia      |07:47:10 | 22-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Maulia      |07:47:13 | 22-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Maulia      |08:37:21 | 23-11-2026| gift: 3/12 belum diterima
+[1]Maulia      |08:37:22 | 23-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Maulia      |08:37:24 | 23-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Maulia      |08:37:27 | 23-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Maulia menjalankan: Setup Profile
-[1]Maulia      |07:47:15 | 22-11-2026| profile: bio="https://x.com/qmauliaa" fav=kagura rewardAt=1791681993
-[1]Maulia      |07:47:15 | 22-11-2026| profile: bonus sudah diklaim, skip
+[1]Maulia      |08:37:30 | 23-11-2026| profile: bio="https://x.com/qmauliaa" fav=kagura rewardAt=1791681993
+[1]Maulia      |08:37:30 | 23-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Maulia menjalankan: Bind Wallet
-[1]Maulia      |07:47:16 | 22-11-2026| wallet: sudah terikat AfUQ5dW177... (solana)
+[1]Maulia      |08:37:30 | 23-11-2026| wallet: sudah terikat AfUQ5dW177... (solana)
 
 == RINGKASAN ==
-- Maulia: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Maulia: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
